@@ -154,6 +154,7 @@ RegisterNumber: 23013426
 ### SR Flip-Flop:
 ![sr wave](https://github.com/Vikaash19/Experiment--05-Implementation-of-flipflops-using-verilog/assets/148514589/51e89e82-dec7-4a1d-9056-c53ad4f12c71)
 
+
 ### RESULT:
 Thus, the program for flipflops is implemented and its functional table is successfully verified in
 quartus using Verilog programming.
